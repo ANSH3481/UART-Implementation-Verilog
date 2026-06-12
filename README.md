@@ -32,6 +32,8 @@ UART-Implementation-Verilog/
 ## Future Improvements
 - Parity Bit Support
 - 16× Oversampling
+- FIFO Buffer
+- FPGA Implementation
 
 - ## Simulation Results
 
@@ -40,5 +42,5 @@ UART-Implementation-Verilog/
 
 ### UART Receiver Waveform
 ![UART RX Waveform](uart_rx_waveform.png)
-- FIFO Buffer
-- FPGA Implementation
+
+
